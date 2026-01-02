@@ -4,8 +4,13 @@
 </p>
 
 ![Hackathon Winner](https://img.shields.io/badge/Aetherion%20Hackathon%202025-Winner-gold?style=flat-square)
+<img src="https://img.shields.io/badge/Role-AI%20Engineer-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-ML%20%7C%20LLMs%20%7C%20RAG-success?style=flat-square"/>
 
-You may call me _Krishnah_, an **AI Engineer** who likes building AI systems that are actually **_intelligent_**
+
+
+
+You may call me _Krishna_, an **AI Engineer** who likes building AI systems that are actually **_intelligent_**
 
 I **live, love, breathe and build AI** and in my leisure time, I do graphic designing, drawing, video editing and gaming. So in either ways, my creativity flows.
 > Fun Fact: I designed the banner you are seeing here! And yeah, I love to "pspspsps" at cats!
@@ -14,13 +19,7 @@ I enjoy turning *“this prompt works”* into *“this system works.”*
 I prioritize **system design, reliability, and clarity** over demos or hype.
 
 ---
-### How I Think About AI
 
-- Prompt cleverness fades. System design doesn’t.  
-- If it can’t be configured, it can’t scale.  
-- If it can’t fail safely, it *will* fail loudly.  
-- “It works” is meaningless without “it keeps working”.
----
 
 ### What I *Say* I Do
 
@@ -79,13 +78,26 @@ It’s an **internal engineering decision-support system**.
 
 ---
 
+### How I Think About AI
+
+- Prompt cleverness fades. System design doesn’t.  
+- If it can’t be configured, it can’t scale.  
+- If it can’t fail safely, it *will* fail loudly.  
+- “It works” is meaningless without “it keeps working”.
+  
+---
+
 ## Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/krishnendu-prasanth/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="[https://www.instagram.com/whoskrisssh/">
+  <a href="https://www.instagram.com/whoskrisssh/">
     <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+	</a>
+  <a href="mailto:krishnenduprasanthofficial@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
