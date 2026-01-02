@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/Github banner.png" width="1200" />
+  <img src="assets/Github Readme.png" width="1200" />
 </p>
 
 ![Hackathon Winner](https://img.shields.io/badge/Aetherion%20Hackathon%202025-Winner-gold?style=flat-square)
